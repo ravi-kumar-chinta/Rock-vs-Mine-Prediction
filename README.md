@@ -66,6 +66,11 @@ pip install numpy pandas scikit-learn
 - The model demonstrates effective classification for **sonar** signals.
 
 ---
+## 📖 Try it on Colab
+You can explore and run this project in Google Colab:  
+[Open SONAR Rock vs Mine Prediction Notebook](https://colab.research.google.com/drive/1q1ya3VI7ePH3Mx5saPPhpeNyo0m0PVsI?usp=sharing)
+
+---
 
 ## ✅ Conclusion
 
