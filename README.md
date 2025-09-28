@@ -57,12 +57,19 @@ Open the provided Jupyter/Colab notebook and run all cells.
 
 ---
 ## 📈 Results
+
 | Metric            | Accuracy |
-| ----------------- | -------- |
-| Training Accuracy | ~83%     |
-| Test Accuracy     | ~83%     |
+|------------------|---------|
+| Training Accuracy | 83%     |
+| Test Accuracy     | 83%     |
+
 The model demonstrates effective classification for sonar signals.
 
 ---
 
+## ✅ Conclusion
 
+- Built and trained a **Logistic Regression** model to classify sonar signals as **Rock (R)** or **Mine (M)**.  
+- Achieved approximately **83% accuracy** on both training and test sets.  
+- Demonstrates a complete **machine learning workflow**: data preprocessing, model training, evaluation, and prediction.  
+- Provides a foundation to explore more advanced models (e.g., **SVM, Random Forest, Neural Networks**) and deploy a real-time predictive system.
