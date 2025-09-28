@@ -37,7 +37,7 @@ pip install numpy pandas scikit-learn
 ```
 
 3. **Run the notebook:**
-Open the provided Jupyter/Colab notebook and run all cells.
+- Open the provided Jupyter/Colab notebook and run all cells.
 
 ---
 
@@ -53,8 +53,7 @@ Open the provided Jupyter/Colab notebook and run all cells.
 
 5. **Model Evaluation:** Evaluate accuracy on training and test sets.
 
-6. **Predictive System:** 
-    - Predict if a sonar signal is Rock (R) or Mine (M).
+6. **Predictive System:** Predict if a sonar signal is Rock (R) or Mine (M).
 
 ---
 ## 📈 Results
