@@ -61,7 +61,7 @@ pip install numpy pandas scikit-learn
 | Metric            | Accuracy |
 |------------------|---------|
 | Training Accuracy | 83%     |
-| Test Accuracy     | 83%     |
+| Test Accuracy     | 76%     |
 
 The model demonstrates effective classification for **sonar** signals.
 
