@@ -23,8 +23,8 @@ This project builds a **machine learning model** to classify sonar signals as ei
 ```bash
 git clone https://github.com/ravi-kumar-chinta/Rock-vs-Mine-Prediction
 ```
-## 2. Install required libraries:
-````bash
+2. Install required libraries:
+```bash
 pip install numpy pandas scikit-learn
 ```
 3. Open the provided Jupyter/Colab notebook and run the cells.
